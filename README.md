@@ -1,4 +1,4 @@
-# Homework 1 - Git Practice
+# Homework 1 - Git Practice 
 
 # My Information
 
